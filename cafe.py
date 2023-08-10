@@ -1,9 +1,9 @@
 menu = {
     "espresso": 2.5,
-    "latte": 3.0,
+    "latte": 3.5,
     "cappuccino": 3.5,
     "americano": 2.0,
-    "mocha": 4.0
+    "mocha": 4.5
 }
 
 def take_order():
